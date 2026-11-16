@@ -1,0 +1,6469 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.4662,
+     37.7974
+    ]
+   },
+   "properties": {
+    "id": "0",
+    "name": "Presidio of San Francisco",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.6988,
+     34.4226
+    ]
+   },
+   "properties": {
+    "id": "1",
+    "name": "Presidio of Santa Bárbara",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.196,
+     32.758
+    ]
+   },
+   "properties": {
+    "id": "2",
+    "name": "Presidio of San Diego",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.9728,
+     32.2243
+    ]
+   },
+   "properties": {
+    "id": "3",
+    "name": "Presidio San Agustín del Tucsón",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.0474,
+     31.6112
+    ]
+   },
+   "properties": {
+    "id": "4",
+    "name": "Presidio San Ignacio de Tubac",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.2399,
+     38.5148
+    ]
+   },
+   "properties": {
+    "id": "5",
+    "name": "Fort Ross (Fortress Ross)",
+    "evidence": "Confirmed",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6149,
+     47.092
+    ]
+   },
+   "properties": {
+    "id": "6",
+    "name": "Joint Base Lewis-McChord (Fort Lewis / Camp Lewis; McChord Field)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.5633,
+     47.1792
+    ]
+   },
+   "properties": {
+    "id": "7",
+    "name": "Fort Steilacoom",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6445,
+     47.1061
+    ]
+   },
+   "properties": {
+    "id": "8",
+    "name": "Fort Nisqually",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.6696,
+     48.3452
+    ]
+   },
+   "properties": {
+    "id": "9",
+    "name": "Naval Air Station Whidbey Island (Ault Field, Seaplane Base, OLF Coupeville) and NWSTF Boardman",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.4641,
+     46.673
+    ]
+   },
+   "properties": {
+    "id": "10",
+    "name": "Yakima Training Center",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.4219,
+     45.8077
+    ]
+   },
+   "properties": {
+    "id": "11",
+    "name": "Umatilla Chemical Depot (Umatilla Army Depot)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.489,
+     46.5507
+    ]
+   },
+   "properties": {
+    "id": "12",
+    "name": "Hanford Site (Hanford Engineer Works)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.6575,
+     35.6552
+    ]
+   },
+   "properties": {
+    "id": "13",
+    "name": "Naval Air Weapons Station China Lake (Coso Rock Art NHL; Coso Hot Springs)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.5663,
+     34.7338
+    ]
+   },
+   "properties": {
+    "id": "14",
+    "name": "Vandenberg Space Force Base (Camp Cooke; Vandenberg AFB)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.8907,
+     34.9215
+    ]
+   },
+   "properties": {
+    "id": "15",
+    "name": "Edwards Air Force Base (Muroc)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.6848,
+     35.2627
+    ]
+   },
+   "properties": {
+    "id": "16",
+    "name": "Fort Irwin / National Training Center",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0602,
+     34.1356
+    ]
+   },
+   "properties": {
+    "id": "17",
+    "name": "Marine Corps Air Ground Combat Center Twentynine Palms",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.2314,
+     36.0036
+    ]
+   },
+   "properties": {
+    "id": "18",
+    "name": "Fort Hunter Liggett",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.3097,
+     33.3083
+    ]
+   },
+   "properties": {
+    "id": "19",
+    "name": "Marine Corps Base Camp Pendleton",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.1056,
+     34.1127
+    ]
+   },
+   "properties": {
+    "id": "20",
+    "name": "Naval Base Ventura County (Point Mugu, Port Hueneme, San Nicolas Island)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.3952,
+     39.1141
+    ]
+   },
+   "properties": {
+    "id": "21",
+    "name": "Beale Air Force Base (Camp Beale)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.0485,
+     36.2392
+    ]
+   },
+   "properties": {
+    "id": "22",
+    "name": "Nellis Air Force Base / Nevada Test and Training Range",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.0284,
+     36.5926
+    ]
+   },
+   "properties": {
+    "id": "23",
+    "name": "Nevada National Security Site (Nevada Test Site / Nevada Proving Ground)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.7242,
+     39.4204
+    ]
+   },
+   "properties": {
+    "id": "24",
+    "name": "Naval Air Station Fallon / Fallon Range Training Complex",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.5312,
+     40.067
+    ]
+   },
+   "properties": {
+    "id": "25",
+    "name": "Fort Ruby",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.3654,
+     31.552
+    ]
+   },
+   "properties": {
+    "id": "26",
+    "name": "Fort Huachuca",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.4361,
+     32.1446
+    ]
+   },
+   "properties": {
+    "id": "27",
+    "name": "Fort Bowie",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.9902,
+     33.789
+    ]
+   },
+   "properties": {
+    "id": "28",
+    "name": "Fort Apache",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.62,
+     32.73
+    ]
+   },
+   "properties": {
+    "id": "29",
+    "name": "Fort Yuma",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.598,
+     35.0224
+    ]
+   },
+   "properties": {
+    "id": "30",
+    "name": "Fort Mohave (Camp Colorado)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.4397,
+     32.8595
+    ]
+   },
+   "properties": {
+    "id": "31",
+    "name": "Yuma Proving Ground",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4776,
+     32.6625
+    ]
+   },
+   "properties": {
+    "id": "32",
+    "name": "Barry M. Goldwater Range (East: USAF/Luke AFB; West: MCAS Yuma)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.5428,
+     35.4706
+    ]
+   },
+   "properties": {
+    "id": "33",
+    "name": "Fort Wingate / Fort Wingate Depot Activity",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.4836,
+     32.3818
+    ]
+   },
+   "properties": {
+    "id": "34",
+    "name": "White Sands Missile Range (White Sands Proving Ground; Alamogordo Bombing Range; Trinity Site)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.0709,
+     32.8341
+    ]
+   },
+   "properties": {
+    "id": "35",
+    "name": "Holloman Air Force Base",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.5531,
+     35.0553
+    ]
+   },
+   "properties": {
+    "id": "36",
+    "name": "Kirtland Air Force Base / Sandia Base / Manzano Base",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.3221,
+     35.8774
+    ]
+   },
+   "properties": {
+    "id": "37",
+    "name": "Los Alamos National Laboratory (Project Y)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.7277,
+     40.229
+    ]
+   },
+   "properties": {
+    "id": "38",
+    "name": "Dugway Proving Ground",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.0194,
+     41.1605
+    ]
+   },
+   "properties": {
+    "id": "39",
+    "name": "Hill Air Force Base / Utah Test and Training Range (incl. former Wendover Field)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.9274,
+     40.4342
+    ]
+   },
+   "properties": {
+    "id": "40",
+    "name": "Camp Williams",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.789,
+     38.7374
+    ]
+   },
+   "properties": {
+    "id": "41",
+    "name": "Fort Carson / Piñon Canyon Maneuver Site",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.1427,
+     38.0852
+    ]
+   },
+   "properties": {
+    "id": "42",
+    "name": "Fort Lyon (Old and New)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.4384,
+     43.0335
+    ]
+   },
+   "properties": {
+    "id": "43",
+    "name": "Fort Hall",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.3843,
+     41.3168
+    ]
+   },
+   "properties": {
+    "id": "44",
+    "name": "Fort Bridger",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.1939,
+     44.8936
+    ]
+   },
+   "properties": {
+    "id": "45",
+    "name": "Fort Snelling (Historic Fort Snelling at Bdote)",
+    "evidence": "Confirmed",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.7256,
+     44.4474
+    ]
+   },
+   "properties": {
+    "id": "46",
+    "name": "Fort Ridgely",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.3479,
+     46.0756
+    ]
+   },
+   "properties": {
+    "id": "47",
+    "name": "Camp Ripley (incl. Fort Ripley site)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.577,
+     41.5224
+    ]
+   },
+   "properties": {
+    "id": "48",
+    "name": "Camp McClellan / Camp Kearney (Davenport)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.7142,
+     41.6909
+    ]
+   },
+   "properties": {
+    "id": "49",
+    "name": "Camp Dodge",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.3135,
+     40.63
+    ]
+   },
+   "properties": {
+    "id": "50",
+    "name": "Fort Madison",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.9393,
+     43.1458
+    ]
+   },
+   "properties": {
+    "id": "51",
+    "name": "Fort Atkinson (Iowa)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.7239,
+     43.9765
+    ]
+   },
+   "properties": {
+    "id": "52",
+    "name": "Fort McCoy (Camp McCoy)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.0199,
+     44.5193
+    ]
+   },
+   "properties": {
+    "id": "53",
+    "name": "Fort Howard",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1474,
+     43.0428
+    ]
+   },
+   "properties": {
+    "id": "54",
+    "name": "Fort Crawford",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.4328,
+     43.5547
+    ]
+   },
+   "properties": {
+    "id": "55",
+    "name": "Fort Winnebago",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.5463,
+     41.519
+    ]
+   },
+   "properties": {
+    "id": "56",
+    "name": "Rock Island Arsenal (Fort Armstrong)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.6248,
+     41.8881
+    ]
+   },
+   "properties": {
+    "id": "57",
+    "name": "Fort Dearborn",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.9701,
+     41.3128
+    ]
+   },
+   "properties": {
+    "id": "58",
+    "name": "Fort St. Louis (Starved Rock)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1581,
+     38.0847
+    ]
+   },
+   "properties": {
+    "id": "59",
+    "name": "Fort de Chartres",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.9095,
+     37.9681
+    ]
+   },
+   "properties": {
+    "id": "60",
+    "name": "Fort Kaskaskia",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.7116,
+     37.1441
+    ]
+   },
+   "properties": {
+    "id": "61",
+    "name": "Fort Massac",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.8713,
+     38.5391
+    ]
+   },
+   "properties": {
+    "id": "62",
+    "name": "Scott Air Force Base",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.8119,
+     42.2165
+    ]
+   },
+   "properties": {
+    "id": "63",
+    "name": "Fort Sheridan",
+    "evidence": "Unverified",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.1384,
+     41.0805
+    ]
+   },
+   "properties": {
+    "id": "64",
+    "name": "Fort Wayne / Fort Miami (Kekionga)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.9636,
+     40.4064
+    ]
+   },
+   "properties": {
+    "id": "65",
+    "name": "Fort Ouiatenon",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.0282,
+     39.3605
+    ]
+   },
+   "properties": {
+    "id": "66",
+    "name": "Camp Atterbury",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.1521,
+     40.6602
+    ]
+   },
+   "properties": {
+    "id": "67",
+    "name": "Grissom Air Reserve Base (NAS Bunker Hill)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.0332,
+     39.8169
+    ]
+   },
+   "properties": {
+    "id": "68",
+    "name": "Wright-Patterson Air Force Base",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.7804,
+     40.4138
+    ]
+   },
+   "properties": {
+    "id": "69",
+    "name": "Fort Recovery",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.3573,
+     41.2875
+    ]
+   },
+   "properties": {
+    "id": "70",
+    "name": "Fort Defiance",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.6512,
+     41.5513
+    ]
+   },
+   "properties": {
+    "id": "71",
+    "name": "Fort Meigs / Camp Perry",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.7318,
+     45.7878
+    ]
+   },
+   "properties": {
+    "id": "72",
+    "name": "Fort Michilimackinac (Colonial Michilimackinac)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.6174,
+     45.8521
+    ]
+   },
+   "properties": {
+    "id": "73",
+    "name": "Fort Mackinac",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.0462,
+     42.3314
+    ]
+   },
+   "properties": {
+    "id": "74",
+    "name": "Fort Detroit (Fort Pontchartrain du Détroit; Fort Lernoult/Shelby)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.2608,
+     41.8129
+    ]
+   },
+   "properties": {
+    "id": "75",
+    "name": "Fort St. Joseph (Niles)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.7885,
+     44.6254
+    ]
+   },
+   "properties": {
+    "id": "76",
+    "name": "Camp Grayling",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.83,
+     42.6278
+    ]
+   },
+   "properties": {
+    "id": "77",
+    "name": "Selfridge Air National Guard Base",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.2772,
+     38.5187
+    ]
+   },
+   "properties": {
+    "id": "78",
+    "name": "Jefferson Barracks",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.1215,
+     37.7465
+    ]
+   },
+   "properties": {
+    "id": "79",
+    "name": "Fort Leonard Wood",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.5658,
+     38.7291
+    ]
+   },
+   "properties": {
+    "id": "80",
+    "name": "Whiteman Air Force Base",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.1933,
+     39.1865
+    ]
+   },
+   "properties": {
+    "id": "81",
+    "name": "Fort Osage",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.07,
+     39.33
+    ]
+   },
+   "properties": {
+    "id": "82",
+    "name": "Fort Orleans",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.9204,
+     39.3443
+    ]
+   },
+   "properties": {
+    "id": "83",
+    "name": "Fort Leavenworth",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.8142,
+     39.1134
+    ]
+   },
+   "properties": {
+    "id": "84",
+    "name": "Fort Riley",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.7073,
+     37.8409
+    ]
+   },
+   "properties": {
+    "id": "85",
+    "name": "Fort Scott",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.2211,
+     38.1825
+    ]
+   },
+   "properties": {
+    "id": "86",
+    "name": "Fort Larned",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.2506,
+     37.6285
+    ]
+   },
+   "properties": {
+    "id": "87",
+    "name": "McConnell Air Force Base",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.0141,
+     41.454
+    ]
+   },
+   "properties": {
+    "id": "88",
+    "name": "Fort Atkinson (Nebraska)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.9185,
+     41.1133
+    ]
+   },
+   "properties": {
+    "id": "89",
+    "name": "Offutt Air Force Base (Fort Crook)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.005,
+     40.6437
+    ]
+   },
+   "properties": {
+    "id": "90",
+    "name": "Fort Kearny",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.4647,
+     42.6689
+    ]
+   },
+   "properties": {
+    "id": "91",
+    "name": "Fort Robinson (Camp Robinson)",
+    "evidence": "Confirmed",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.9568,
+     41.3076
+    ]
+   },
+   "properties": {
+    "id": "92",
+    "name": "Fort Omaha",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.8549,
+     46.7694
+    ]
+   },
+   "properties": {
+    "id": "93",
+    "name": "Fort Abraham Lincoln (Fort McKeen)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.9963,
+     47.9782
+    ]
+   },
+   "properties": {
+    "id": "94",
+    "name": "Fort Totten",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.6308,
+     46.0864
+    ]
+   },
+   "properties": {
+    "id": "95",
+    "name": "Fort Yates (Standing Rock Cantonment)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.0406,
+     47.9993
+    ]
+   },
+   "properties": {
+    "id": "96",
+    "name": "Fort Union Trading Post / Fort Buford",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.3038,
+     48.402
+    ]
+   },
+   "properties": {
+    "id": "97",
+    "name": "Minot Air Force Base / Grand Forks Air Force Base",
+    "evidence": "Unverified",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.3,
+     43.5
+    ]
+   },
+   "properties": {
+    "id": "98",
+    "name": "Badlands Bombing Range (Pine Ridge Gunnery Range) / Ellsworth AFB retained area",
+    "evidence": "Confirmed",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.4762,
+     44.4107
+    ]
+   },
+   "properties": {
+    "id": "99",
+    "name": "Fort Meade (South Dakota)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.6245,
+     43.0243
+    ]
+   },
+   "properties": {
+    "id": "100",
+    "name": "Fort Randall / Fort Pierre Chouteau / Fort Pierre",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.269,
+     44.082
+    ]
+   },
+   "properties": {
+    "id": "101",
+    "name": "Camp Rapid",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.3877,
+     34.67
+    ]
+   },
+   "properties": {
+    "id": "102",
+    "name": "Fort Sill",
+    "evidence": "Confirmed",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.03,
+     35.55
+    ]
+   },
+   "properties": {
+    "id": "103",
+    "name": "Fort Reno",
+    "evidence": "Confirmed",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.2502,
+     35.7975
+    ]
+   },
+   "properties": {
+    "id": "104",
+    "name": "Fort Gibson / Fort Washita / Fort Towson",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.2846,
+     34.6557
+    ]
+   },
+   "properties": {
+    "id": "105",
+    "name": "Altus Air Force Base",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3933,
+     35.4303
+    ]
+   },
+   "properties": {
+    "id": "106",
+    "name": "Tinker AFB / Vance AFB / McAlester AAP / Camp Gruber",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.7645,
+     31.1381
+    ]
+   },
+   "properties": {
+    "id": "107",
+    "name": "Fort Hood (Fort Cavazos 2023–2025)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.4278,
+     31.8161
+    ]
+   },
+   "properties": {
+    "id": "108",
+    "name": "Fort Bliss (Texas and New Mexico: McGregor, Doña Ana, Otero Mesa ranges)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.4253,
+     29.4827
+    ]
+   },
+   "properties": {
+    "id": "109",
+    "name": "Joint Base San Antonio (Presidio San Antonio de Béxar; Fort Sam Houston; Camp Bullis; Lackland/Kelly)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3828,
+     28.6478
+    ]
+   },
+   "properties": {
+    "id": "110",
+    "name": "Presidio La Bahía (Goliad) / Presidio San Sabá",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.8369,
+     32.4232
+    ]
+   },
+   "properties": {
+    "id": "111",
+    "name": "Dyess AFB / Goodfellow AFB / Fort Concho / Fort Griffin / Fort Richardson / Fort Davis / Red River Army Depot / NAS Corpus Christi",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.4253,
+     35.3872
+    ]
+   },
+   "properties": {
+    "id": "112",
+    "name": "Fort Smith / Fort Chaffee / Camp Robinson / Pine Bluff Arsenal / Little Rock AFB",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.0878,
+     31.7525
+    ]
+   },
+   "properties": {
+    "id": "113",
+    "name": "Fort St. Jean Baptiste",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.2054,
+     31.0468
+    ]
+   },
+   "properties": {
+    "id": "114",
+    "name": "Fort Polk (Fort Johnson 2023–2025)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.3933,
+     31.3773
+    ]
+   },
+   "properties": {
+    "id": "115",
+    "name": "Camp Beauregard / Barksdale AFB / NAS JRB New Orleans",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.6773,
+     32.3498
+    ]
+   },
+   "properties": {
+    "id": "116",
+    "name": "Marine Corps Recruit Depot Parris Island (Santa Elena / Charlesfort / Fort San Marcos)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.5835,
+     37.2437
+    ]
+   },
+   "properties": {
+    "id": "117",
+    "name": "Naval Weapons Station Yorktown (Navy Mine Depot; Kiskiak)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.7403,
+     44.0415
+    ]
+   },
+   "properties": {
+    "id": "118",
+    "name": "Fort Drum (Pine Camp; Camp Drum)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.0129,
+     38.8422
+    ]
+   },
+   "properties": {
+    "id": "119",
+    "name": "Joint Base Anacostia-Bolling (Bolling Field; NSF Anacostia)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.9917,
+     38.8736
+    ]
+   },
+   "properties": {
+    "id": "120",
+    "name": "Washington Navy Yard / Fort McNair (Washington Arsenal)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.1467,
+     38.7095
+    ]
+   },
+   "properties": {
+    "id": "121",
+    "name": "Fort Belvoir (Camp A.A. Humphreys)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.1405,
+     39.4841
+    ]
+   },
+   "properties": {
+    "id": "122",
+    "name": "Aberdeen Proving Ground",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.5785,
+     37.1595
+    ]
+   },
+   "properties": {
+    "id": "123",
+    "name": "Fort Eustis (Joint Base Langley-Eustis; Mulberry Island)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.3073,
+     37.0026
+    ]
+   },
+   "properties": {
+    "id": "124",
+    "name": "Fort Monroe (Old Point Comfort; Fort Algernourne)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.3504,
+     37.2506
+    ]
+   },
+   "properties": {
+    "id": "125",
+    "name": "Fort Lee (Fort Gregg-Adams 2023–2025)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.3268,
+     38.0902
+    ]
+   },
+   "properties": {
+    "id": "126",
+    "name": "Fort A.P. Hill (Fort Walker 2023–2025; Fort Anderson-Pinn-Hill 2025)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.5625,
+     40.9391
+    ]
+   },
+   "properties": {
+    "id": "127",
+    "name": "Picatinny Arsenal",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9562,
+     41.3917
+    ]
+   },
+   "properties": {
+    "id": "128",
+    "name": "West Point (US Military Academy)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.9921,
+     35.1515
+    ]
+   },
+   "properties": {
+    "id": "129",
+    "name": "Fort Bragg (Fort Liberty 2023–2025)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.6084,
+     31.868
+    ]
+   },
+   "properties": {
+    "id": "130",
+    "name": "Fort Stewart / Hunter Army Airfield",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.9757,
+     32.3511
+    ]
+   },
+   "properties": {
+    "id": "131",
+    "name": "Fort Benning (Fort Moore 2023–2025) incl. Yuchi Town NHL and Lawson Army Airfield",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.9336,
+     34.0138
+    ]
+   },
+   "properties": {
+    "id": "132",
+    "name": "Fort Jackson",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.7254,
+     32.4669
+    ]
+   },
+   "properties": {
+    "id": "133",
+    "name": "Marine Corps Air Station Beaufort (Laurel Bay; Townsend Bombing Range)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.932,
+     32.7833
+    ]
+   },
+   "properties": {
+    "id": "134",
+    "name": "Charles Towne Landing (1670 fortified settlement, Albemarle Point)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.4146,
+     31.3638
+    ]
+   },
+   "properties": {
+    "id": "135",
+    "name": "Fort King George",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.5666,
+     30.7914
+    ]
+   },
+   "properties": {
+    "id": "136",
+    "name": "Naval Submarine Base Kings Bay",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.5067,
+     30.483
+    ]
+   },
+   "properties": {
+    "id": "137",
+    "name": "Eglin Air Force Base",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.6193,
+     30.4047
+    ]
+   },
+   "properties": {
+    "id": "138",
+    "name": "Camp Walton at Fort Walton Mound",
+    "evidence": "Confirmed",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.4942,
+     27.8529
+    ]
+   },
+   "properties": {
+    "id": "139",
+    "name": "MacDill Air Force Base",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.4522,
+     27.9416
+    ]
+   },
+   "properties": {
+    "id": "140",
+    "name": "Fort Brooke",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.2914,
+     30.3502
+    ]
+   },
+   "properties": {
+    "id": "141",
+    "name": "Naval Air Station Pensacola / Presidio Santa María de Galve / Fort Barrancas",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.5728,
+     28.4887
+    ]
+   },
+   "properties": {
+    "id": "142",
+    "name": "Cape Canaveral Space Force Station / Patrick Space Force Base",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.312,
+     29.898
+    ]
+   },
+   "properties": {
+    "id": "143",
+    "name": "St. Augustine: Menéndez fort at Seloy (1565) and Castillo de San Marcos",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.4981,
+     30.3847
+    ]
+   },
+   "properties": {
+    "id": "144",
+    "name": "Fort Caroline (San Mateo)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3233,
+     29.9297
+    ]
+   },
+   "properties": {
+    "id": "145",
+    "name": "Fort Mose",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.01,
+     30.07
+    ]
+   },
+   "properties": {
+    "id": "146",
+    "name": "Prospect Bluff (British Fort 1814 / Negro Fort / Fort Gadsden)",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.2905,
+     30.3273
+    ]
+   },
+   "properties": {
+    "id": "147",
+    "name": "Fort Pickens",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.2517,
+     32.5066
+    ]
+   },
+   "properties": {
+    "id": "148",
+    "name": "Fort Toulouse / Fort Jackson (Taskigi Mound)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.2131,
+     35.5958
+    ]
+   },
+   "properties": {
+    "id": "149",
+    "name": "Fort Loudoun (Tennessee)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.07,
+     35.12
+    ]
+   },
+   "properties": {
+    "id": "150",
+    "name": "Fort Pickering (Chickasaw Bluffs; Fort Assumption; San Fernando de las Barrancas)",
+    "evidence": "Confirmed",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.6556,
+     34.6985
+    ]
+   },
+   "properties": {
+    "id": "151",
+    "name": "Redstone Arsenal",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.4514,
+     36.6466
+    ]
+   },
+   "properties": {
+    "id": "152",
+    "name": "Fort Campbell",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.41,
+     31.5568
+    ]
+   },
+   "properties": {
+    "id": "153",
+    "name": "Fort Rosalie (Fort Panmure)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.8293,
+     30.4059
+    ]
+   },
+   "properties": {
+    "id": "154",
+    "name": "Fort Maurepas",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.8378,
+     31.1799
+    ]
+   },
+   "properties": {
+    "id": "155",
+    "name": "Fort Mims",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.0757,
+     30.2485
+    ]
+   },
+   "properties": {
+    "id": "156",
+    "name": "Fort Gaines (Dauphin Island)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.346,
+     32.3811
+    ]
+   },
+   "properties": {
+    "id": "157",
+    "name": "Maxwell Air Force Base",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.5473,
+     41.6636
+    ]
+   },
+   "properties": {
+    "id": "158",
+    "name": "Joint Base Cape Cod (Camp Edwards / Otis)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.1769,
+     40.2097
+    ]
+   },
+   "properties": {
+    "id": "159",
+    "name": "Carlisle Barracks (Carlisle Indian Industrial School cemetery)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.4554,
+     43.2105
+    ]
+   },
+   "properties": {
+    "id": "160",
+    "name": "Fort Stanwix (Oneida Carrying Place)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.75,
+     42.64
+    ]
+   },
+   "properties": {
+    "id": "161",
+    "name": "Fort Orange / Fort Nassau (Albany)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.014,
+     40.703
+    ]
+   },
+   "properties": {
+    "id": "162",
+    "name": "Fort Amsterdam",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0641,
+     43.263
+    ]
+   },
+   "properties": {
+    "id": "163",
+    "name": "Fort Niagara",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.0098,
+     40.4412
+    ]
+   },
+   "properties": {
+    "id": "164",
+    "name": "Fort Pitt / Fort Duquesne",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5383,
+     39.737
+    ]
+   },
+   "properties": {
+    "id": "165",
+    "name": "Fort Christina (Fort Altena)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.6297,
+     44.5396
+    ]
+   },
+   "properties": {
+    "id": "166",
+    "name": "Fort Halifax",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.7836,
+     43.755
+    ]
+   },
+   "properties": {
+    "id": "167",
+    "name": "Popham Colony (Fort St. George) / Fort Popham / Fort Baldwin",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.8033,
+     44.3846
+    ]
+   },
+   "properties": {
+    "id": "168",
+    "name": "Fort Pentagoet (Castine)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.3516,
+     41.2843
+    ]
+   },
+   "properties": {
+    "id": "169",
+    "name": "Saybrook Fort",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.3546,
+     34.6608
+    ]
+   },
+   "properties": {
+    "id": "170",
+    "name": "Marine Corps Base Camp Lejeune",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.8808,
+     34.9026
+    ]
+   },
+   "properties": {
+    "id": "171",
+    "name": "Marine Corps Air Station Cherry Point",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.9564,
+     35.3575
+    ]
+   },
+   "properties": {
+    "id": "172",
+    "name": "Seymour Johnson Air Force Base / Dare County Range",
+    "evidence": "Refuted",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.0129,
+     33.9875
+    ]
+   },
+   "properties": {
+    "id": "173",
+    "name": "Military Ocean Terminal Sunny Point",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9372,
+     32.9585
+    ]
+   },
+   "properties": {
+    "id": "174",
+    "name": "Joint Base Charleston (Naval Weapons Station)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.4811,
+     33.9745
+    ]
+   },
+   "properties": {
+    "id": "175",
+    "name": "Shaw Air Force Base / Poinsett Range",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.1559,
+     33.4248
+    ]
+   },
+   "properties": {
+    "id": "176",
+    "name": "Fort Gordon (Fort Eisenhower 2023–2025)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.5886,
+     32.6474
+    ]
+   },
+   "properties": {
+    "id": "177",
+    "name": "Robins Air Force Base",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.2053,
+     30.9761
+    ]
+   },
+   "properties": {
+    "id": "178",
+    "name": "Moody Air Force Base / Grand Bay Range",
+    "evidence": "Unverified",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.6975,
+     30.4223
+    ]
+   },
+   "properties": {
+    "id": "179",
+    "name": "Hurlburt Field",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.593,
+     30.0652
+    ]
+   },
+   "properties": {
+    "id": "180",
+    "name": "Tyndall Air Force Base",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.2786,
+     27.6462
+    ]
+   },
+   "properties": {
+    "id": "181",
+    "name": "Avon Park Air Force Range",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.0304,
+     35.3828
+    ]
+   },
+   "properties": {
+    "id": "182",
+    "name": "Arnold Air Force Base",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.2552,
+     37.6795
+    ]
+   },
+   "properties": {
+    "id": "183",
+    "name": "Blue Grass Army Depot",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.6348,
+     36.5506
+    ]
+   },
+   "properties": {
+    "id": "184",
+    "name": "Holston Army Ammunition Plant / Milan Army Ammunition Plant",
+    "evidence": "Unverified",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.9676,
+     33.6241
+    ]
+   },
+   "properties": {
+    "id": "185",
+    "name": "Coosa River Storage Annex (Anniston Army Depot)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.6814,
+     20.5147
+    ]
+   },
+   "properties": {
+    "id": "186",
+    "name": "Kahoʻolawe (Navy bombing range; Kahoʻolawe Island Reserve)",
+    "evidence": "Confirmed",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.2281,
+     21.5342
+    ]
+   },
+   "properties": {
+    "id": "187",
+    "name": "Mākua Military Reservation",
+    "evidence": "Confirmed",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.7567,
+     21.4365
+    ]
+   },
+   "properties": {
+    "id": "188",
+    "name": "Marine Corps Base Hawaii, Kāneʻohe Bay (Mōkapu Peninsula; Fort Hase; NAS Kaneohe Bay)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9568,
+     21.3383
+    ]
+   },
+   "properties": {
+    "id": "189",
+    "name": "Joint Base Pearl Harbor–Hickam (Pearl Harbor Naval Base; Hickam Field; Fort Kamehameha; Ford Island; Iroquois Point; McGrew Point)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -155.5325,
+     19.7588
+    ]
+   },
+   "properties": {
+    "id": "190",
+    "name": "Pōhakuloa Training Area",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.0506,
+     21.4898
+    ]
+   },
+   "properties": {
+    "id": "191",
+    "name": "Schofield Barracks (with Kūkaniloko adjacent)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.7104,
+     21.3456
+    ]
+   },
+   "properties": {
+    "id": "192",
+    "name": "Bellows Air Force Station (Bellows Field Archaeological Area)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -159.782,
+     22.0353
+    ]
+   },
+   "properties": {
+    "id": "193",
+    "name": "Pacific Missile Range Facility, Barking Sands (Nohili / Mānā)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.0698,
+     21.3144
+    ]
+   },
+   "properties": {
+    "id": "194",
+    "name": "Kalaeloa (former Naval Air Station Barbers Point; Honouliuli)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.12,
+     21.42
+    ]
+   },
+   "properties": {
+    "id": "195",
+    "name": "Naval Magazine Lualualei / NRTF Lualualei",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.8041,
+     21.2638
+    ]
+   },
+   "properties": {
+    "id": "196",
+    "name": "Fort Ruger / Diamond Head (Lēʻahi)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.8342,
+     21.2797
+    ]
+   },
+   "properties": {
+    "id": "197",
+    "name": "Fort DeRussy (Waikīkī)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.8838,
+     21.3456
+    ]
+   },
+   "properties": {
+    "id": "198",
+    "name": "Fort Shafter",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.9261,
+     21.3554
+    ]
+   },
+   "properties": {
+    "id": "199",
+    "name": "Āliamanu Military Reservation (Salt Lake crater)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.1443,
+     21.5827
+    ]
+   },
+   "properties": {
+    "id": "200",
+    "name": "Dillingham Military Reservation / Dillingham Airfield (Mokulēʻia)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -157.949,
+     21.6771
+    ]
+   },
+   "properties": {
+    "id": "201",
+    "name": "Kahuku Training Area",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.19,
+     21.4464
+    ]
+   },
+   "properties": {
+    "id": "202",
+    "name": "Pililāʻau Army Recreation Center (Waiʻanae)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.2393,
+     21.5613
+    ]
+   },
+   "properties": {
+    "id": "203",
+    "name": "Kaʻena Point Space Force Station",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -135.3361,
+     57.0492
+    ]
+   },
+   "properties": {
+    "id": "204",
+    "name": "Castle Hill / Noow Tlein, Sitka (Novo-Arkhangelsk)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -132.3844,
+     56.4716
+    ]
+   },
+   "properties": {
+    "id": "205",
+    "name": "Fort Wrangell (Redoubt St. Dionysius)",
+    "evidence": "Confirmed",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -151.2667,
+     60.5529
+    ]
+   },
+   "properties": {
+    "id": "206",
+    "name": "Fort St. Nicholas Redoubt / Fort Kenay (Kenai)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -176.6392,
+     51.8738
+    ]
+   },
+   "properties": {
+    "id": "207",
+    "name": "Adak (Army Base / Naval Operating Base / NAS Adak)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -186.8831,
+     52.8895
+    ]
+   },
+   "properties": {
+    "id": "208",
+    "name": "Attu (Massacre Bay base; Coast Guard LORAN station)",
+    "evidence": "Confirmed",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -181.0167,
+     51.5422
+    ]
+   },
+   "properties": {
+    "id": "209",
+    "name": "Amchitka (Army airbase; AEC/DoD underground nuclear test site)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -166.5423,
+     53.887
+    ]
+   },
+   "properties": {
+    "id": "210",
+    "name": "Dutch Harbor Naval Operating Base and Fort Mears (Amaknak Island)",
+    "evidence": "Unverified",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -167.9,
+     53.38
+    ]
+   },
+   "properties": {
+    "id": "211",
+    "name": "Fort Glenn Army Air Base / Cape Field (Umnak Island)",
+    "evidence": "Confirmed",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -185.8811,
+     52.7242
+    ]
+   },
+   "properties": {
+    "id": "212",
+    "name": "Eareckson Air Station (Shemya)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -149.8107,
+     61.2465
+    ]
+   },
+   "properties": {
+    "id": "213",
+    "name": "Joint Base Elmendorf–Richardson (Fort Richardson; Elmendorf Field)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -147.6705,
+     64.8287
+    ]
+   },
+   "properties": {
+    "id": "214",
+    "name": "Fort Wainwright (Ladd Field)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -156.6679,
+     71.3247
+    ]
+   },
+   "properties": {
+    "id": "215",
+    "name": "Point Barrow (Naval Arctic Research Laboratory; Point Barrow LRRS; Birnirk NHL)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -143.5846,
+     70.1339
+    ]
+   },
+   "properties": {
+    "id": "216",
+    "name": "DEW Line / Long Range Radar Sites, Alaska (Barter Island, Bullen Point, Oliktok, Point Lay, Point Lonely, Cold Bay)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -152.5038,
+     57.7414
+    ]
+   },
+   "properties": {
+    "id": "217",
+    "name": "Kodiak Naval Operating Base / Forts Greely and Abercrombie (Coast Guard Base Kodiak)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -158.0358,
+     21.4857
+    ]
+   },
+   "properties": {
+    "id": "218",
+    "name": "Wheeler Army Airfield",
+    "evidence": "Refuted",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.3926,
+     18.142
+    ]
+   },
+   "properties": {
+    "id": "219",
+    "name": "Vieques Naval Training Range (Camp García; Live Impact Area) and Naval Ammunition Support Detachment",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.3001,
+     18.3031
+    ]
+   },
+   "properties": {
+    "id": "220",
+    "name": "Culebra Naval Defensive Sea Area / Camp Roosevelt gunnery and bombing range",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.6402,
+     18.2524
+    ]
+   },
+   "properties": {
+    "id": "221",
+    "name": "Naval Station Roosevelt Roads",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.1409,
+     18.5027
+    ]
+   },
+   "properties": {
+    "id": "222",
+    "name": "Ramey Air Force Base (Borinquen Field)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.095,
+     18.465
+    ]
+   },
+   "properties": {
+    "id": "223",
+    "name": "Puerto Rico National Guard headquarters (Cuartel), Puerta de Tierra, within the Spanish San Juan lines",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.1241,
+     18.4708
+    ]
+   },
+   "properties": {
+    "id": "224",
+    "name": "Castillo San Felipe del Morro / Castillo San Cristóbal / Fortín San Gerónimo (Fort Brooke)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.12,
+     18.41
+    ]
+   },
+   "properties": {
+    "id": "225",
+    "name": "Fort Buchanan",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.28,
+     17.98
+    ]
+   },
+   "properties": {
+    "id": "226",
+    "name": "Camp Santiago Joint Training Center",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.2006,
+     18.4395
+    ]
+   },
+   "properties": {
+    "id": "227",
+    "name": "Naval Security Group Activity Sabana Seca",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.5016,
+     18.0192
+    ]
+   },
+   "properties": {
+    "id": "228",
+    "name": "Fort Allen (Losey Field)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.76,
+     17.78
+    ]
+   },
+   "properties": {
+    "id": "229",
+    "name": "Fort Salé (Fort Flamand), Salt River Bay",
+    "evidence": "Confirmed",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.95,
+     18.33
+    ]
+   },
+   "properties": {
+    "id": "230",
+    "name": "St. Thomas Submarine Base (Crown Bay) and Marine Corps Bourne Field, with the Krum Bay site",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.96,
+     18.31
+    ]
+   },
+   "properties": {
+    "id": "231",
+    "name": "Fort Segarra (Water Island)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.9321,
+     18.3411
+    ]
+   },
+   "properties": {
+    "id": "232",
+    "name": "Fort Christian (St. Thomas) and Fort Frederik (St. Croix)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.1,
+     19.9
+    ]
+   },
+   "properties": {
+    "id": "233",
+    "name": "Guantánamo Bay Naval Base",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.36,
+     23.15
+    ]
+   },
+   "properties": {
+    "id": "234",
+    "name": "Castillo del Morro and La Cabaña (Havana); Castillo de San Pedro de la Roca (Santiago); Baracoa forts",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.08,
+     19.72
+    ]
+   },
+   "properties": {
+    "id": "235",
+    "name": "La Navidad (Columbus's first fort) at En Bas Saline",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.08,
+     19.89
+    ]
+   },
+   "properties": {
+    "id": "236",
+    "name": "La Isabela (El Castillo)",
+    "evidence": "Unverified",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.88,
+     18.47
+    ]
+   },
+   "properties": {
+    "id": "237",
+    "name": "Fortaleza Ozama",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.8379,
+     19.6643
+    ]
+   },
+   "properties": {
+    "id": "238",
+    "name": "Fort-Liberté (Fort-Dauphin) / Fortaleza San Felipe / Môle-Saint-Nicolas / Citadelle Laferrière / San Isidro Air Base",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.2,
+     18.43
+    ]
+   },
+   "properties": {
+    "id": "239",
+    "name": "Sevilla la Nueva (Governor's Castle, fortified first Spanish capital)",
+    "evidence": "Confirmed",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.8421,
+     17.9393
+    ]
+   },
+   "properties": {
+    "id": "240",
+    "name": "Fort Charles / Port Royal; Up Park Camp; Fort Charlotte; Spanish Town",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.788,
+     24.7251
+    ]
+   },
+   "properties": {
+    "id": "241",
+    "name": "AUTEC (Atlantic Undersea Test and Evaluation Center), Andros",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.36,
+     25.07
+    ]
+   },
+   "properties": {
+    "id": "242",
+    "name": "Fort Charlotte and Fort Fincastle (Nassau); Grand Bahama tracking station",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.7717,
+     17.0076
+    ]
+   },
+   "properties": {
+    "id": "243",
+    "name": "English Harbour / Nelson's Dockyard / Shirley Heights",
+    "evidence": "Confirmed",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.9645,
+     14.0929
+    ]
+   },
+   "properties": {
+    "id": "244",
+    "name": "Pigeon Island (Fort Rodney) and US Naval Air Station Reduit",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.72,
+     15.99
+    ]
+   },
+   "properties": {
+    "id": "245",
+    "name": "Fort Delgrès (Fort Saint-Charles / Fort Houël)",
+    "evidence": "Refuted",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.04,
+     12.52
+    ]
+   },
+   "properties": {
+    "id": "246",
+    "name": "Fort Zoutman",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.84,
+     17.35
+    ]
+   },
+   "properties": {
+    "id": "247",
+    "name": "Brimstone Hill (St. Kitts); Fort Shirley/Cabrits (Dominica); Fort Saint-Louis (Martinique); Fort George (Grenada); Fort Charlotte (St. Vincent); Garrison Savannah (Barbados); Fort Oranje (Sint Eustatius); Fort Amsterdam (Sint Maarten, Curaçao); Fort Bay (Saba)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.6392,
+     10.6828
+    ]
+   },
+   "properties": {
+    "id": "248",
+    "name": "US Naval Operating Base Chaguaramas",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.17,
+     10.6
+    ]
+   },
+   "properties": {
+    "id": "249",
+    "name": "Waller Field; Fort George (Port of Spain); Fort King George (Tobago)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.59,
+     8.89
+    ]
+   },
+   "properties": {
+    "id": "250",
+    "name": "Venado Beach (Playa Venado) cemetery in the Fort Kobbe target range",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.49,
+     9.01
+    ]
+   },
+   "properties": {
+    "id": "251",
+    "name": "Panamá Viejo (fortified Spanish city; Casas Reales)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.0,
+     9.32
+    ]
+   },
+   "properties": {
+    "id": "252",
+    "name": "Castillo de San Lorenzo el Real de Chagres, inside the former US Fort Sherman",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.58,
+     8.99
+    ]
+   },
+   "properties": {
+    "id": "253",
+    "name": "Other Canal Zone bases (Fort Clayton, Howard AFB, Fort Gulick/Davis, Albrook, Rodman, Fort Amador, Galeta Island, Taboga Island batteries); Portobelo forts; SENAFRONT/SENAN bases",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.92,
+     43.2
+    ]
+   },
+   "properties": {
+    "id": "254",
+    "name": "Camp Ipperwash",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1732,
+     50.2714
+    ]
+   },
+   "properties": {
+    "id": "255",
+    "name": "CFB Suffield (incl. British Army Training Unit Suffield and Suffield National Wildlife Area)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.2819,
+     54.4057
+    ]
+   },
+   "properties": {
+    "id": "256",
+    "name": "Cold Lake (Primrose Lake) Air Weapons Range / CFB Cold Lake (4 Wing)",
+    "evidence": "Confirmed",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.8386,
+     74.696
+    ]
+   },
+   "properties": {
+    "id": "257",
+    "name": "Resolute Bay (Joint Arctic Weather Station / RCAF Station Resolute Bay)",
+    "evidence": "Confirmed",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.4125,
+     53.3137
+    ]
+   },
+   "properties": {
+    "id": "258",
+    "name": "CFB Goose Bay / 5 Wing Goose Bay",
+    "evidence": "Confirmed",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.0842,
+     58.7564
+    ]
+   },
+   "properties": {
+    "id": "259",
+    "name": "Fort Churchill / Churchill Rocket Research Range",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.2131,
+     58.7972
+    ]
+   },
+   "properties": {
+    "id": "260",
+    "name": "Prince of Wales Fort",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.4204,
+     48.4358
+    ]
+   },
+   "properties": {
+    "id": "261",
+    "name": "CFB Esquimalt (Royal Navy Pacific Station / RCN)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.474,
+     48.4342
+    ]
+   },
+   "properties": {
+    "id": "262",
+    "name": "Royal Roads (HMCS Royal Roads / Royal Roads Military College)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.4476,
+     48.4304
+    ]
+   },
+   "properties": {
+    "id": "263",
+    "name": "Fort Rodd Hill",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.9016,
+     49.6653
+    ]
+   },
+   "properties": {
+    "id": "264",
+    "name": "Goose Spit / HMCS Quadra (CFB Comox)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -124.1916,
+     49.2754
+    ]
+   },
+   "properties": {
+    "id": "265",
+    "name": "CFMETR Nanoose Bay",
+    "evidence": "Unverified",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.2837,
+     45.9002
+    ]
+   },
+   "properties": {
+    "id": "266",
+    "name": "CFB Petawawa (Garrison Petawawa)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.44,
+     45.83
+    ]
+   },
+   "properties": {
+    "id": "267",
+    "name": "CFB Gagetown",
+    "evidence": "Unverified",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.6423,
+     49.806
+    ]
+   },
+   "properties": {
+    "id": "268",
+    "name": "CFB Shilo",
+    "evidence": "Unverified",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.8867,
+     52.8247
+    ]
+   },
+   "properties": {
+    "id": "269",
+    "name": "CFB Wainwright",
+    "evidence": "Unverified",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.353,
+     82.499
+    ]
+   },
+   "properties": {
+    "id": "270",
+    "name": "CFS Alert",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.5427,
+     73.0351
+    ]
+   },
+   "properties": {
+    "id": "271",
+    "name": "Nanisivik Naval Facility",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.0,
+     69.1
+    ]
+   },
+   "properties": {
+    "id": "272",
+    "name": "DEW Line (Canadian sector) and North Warning System",
+    "evidence": "Probable",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.0541,
+     69.1175
+    ]
+   },
+   "properties": {
+    "id": "273",
+    "name": "DEW Line CAM-Main, Cambridge Bay (Iqaluktuuttiaq)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.2452,
+     68.7923
+    ]
+   },
+   "properties": {
+    "id": "274",
+    "name": "DEW Line FOX-Main, Hall Beach (Sanirajak)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -133.0322,
+     69.4425
+    ]
+   },
+   "properties": {
+    "id": "275",
+    "name": "DEW Line BAR-3, Tuktoyaktuk",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.3649,
+     66.6658
+    ]
+   },
+   "properties": {
+    "id": "276",
+    "name": "DEW Line DYE-Main, Cape Dyer",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.0,
+     50.5
+    ]
+   },
+   "properties": {
+    "id": "277",
+    "name": "Pinetree Line radar stations",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.1281,
+     49.8882
+    ]
+   },
+   "properties": {
+    "id": "278",
+    "name": "The Forks (Fort Rouge / Fort Gibraltar / Fort Garry / Upper Fort Garry)",
+    "evidence": "Confirmed",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.93,
+     50.11
+    ]
+   },
+   "properties": {
+    "id": "279",
+    "name": "Lower Fort Garry",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.0442,
+     51.0448
+    ]
+   },
+   "properties": {
+    "id": "280",
+    "name": "Fort Calgary (The Confluence)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4937,
+     53.5325
+    ]
+   },
+   "properties": {
+    "id": "281",
+    "name": "Fort Edmonton / Rossdale Flats burial ground",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.8794,
+     49.5728
+    ]
+   },
+   "properties": {
+    "id": "282",
+    "name": "Fort Walsh",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.3052,
+     52.7363
+    ]
+   },
+   "properties": {
+    "id": "283",
+    "name": "Fort Battleford",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4059,
+     49.7263
+    ]
+   },
+   "properties": {
+    "id": "284",
+    "name": "Fort Macleod",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.1497,
+     58.7164
+    ]
+   },
+   "properties": {
+    "id": "285",
+    "name": "Fort Chipewyan",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.4789,
+     44.2335
+    ]
+   },
+   "properties": {
+    "id": "286",
+    "name": "Fort Frontenac / CFB Kingston",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.4598,
+     44.2303
+    ]
+   },
+   "properties": {
+    "id": "287",
+    "name": "Fort Henry / Royal Military College (Point Henry and Point Frederick)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2083,
+     46.8072
+    ]
+   },
+   "properties": {
+    "id": "288",
+    "name": "Citadelle of Québec / Fort Saint-Louis",
+    "evidence": "Refuted",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.554,
+     45.503
+    ]
+   },
+   "properties": {
+    "id": "289",
+    "name": "Fort Ville-Marie / Montréal (Pointe-à-Callière)",
+    "evidence": "Refuted",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.253,
+     45.2989
+    ]
+   },
+   "properties": {
+    "id": "290",
+    "name": "Fort Saint-Jean / Collège militaire royal de Saint-Jean",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.277,
+     45.4495
+    ]
+   },
+   "properties": {
+    "id": "291",
+    "name": "Fort Chambly",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.27,
+     45.08
+    ]
+   },
+   "properties": {
+    "id": "292",
+    "name": "Fort Lennox (Île aux Noix)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.4,
+     47.33
+    ]
+   },
+   "properties": {
+    "id": "293",
+    "name": "Obadjiwan–Fort Témiscamingue",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.9855,
+     45.8922
+    ]
+   },
+   "properties": {
+    "id": "294",
+    "name": "Fortress of Louisbourg",
+    "evidence": "Unverified",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.5797,
+     44.6475
+    ]
+   },
+   "properties": {
+    "id": "295",
+    "name": "Halifax Citadel (Fort George)",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.5859,
+     44.6486
+    ]
+   },
+   "properties": {
+    "id": "296",
+    "name": "CFB Halifax (HMC Dockyard, Stadacona, Shearwater)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.5185,
+     44.7428
+    ]
+   },
+   "properties": {
+    "id": "297",
+    "name": "Fort Anne (Port-Royal / Annapolis Royal)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.29,
+     45.86
+    ]
+   },
+   "properties": {
+    "id": "298",
+    "name": "Fort Beauséjour (Fort Cumberland)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.07,
+     45.28
+    ]
+   },
+   "properties": {
+    "id": "299",
+    "name": "Fort Howe",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.4042,
+     43.6392
+    ]
+   },
+   "properties": {
+    "id": "300",
+    "name": "Fort York",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0616,
+     43.2508
+    ]
+   },
+   "properties": {
+    "id": "301",
+    "name": "Fort George and Fort Mississauga",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.93,
+     42.89
+    ]
+   },
+   "properties": {
+    "id": "302",
+    "name": "Old Fort Erie / Snake Hill",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.113,
+     42.1069
+    ]
+   },
+   "properties": {
+    "id": "303",
+    "name": "Fort Malden (Fort Amherstburg)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.894,
+     44.2899
+    ]
+   },
+   "properties": {
+    "id": "304",
+    "name": "CFB Borden",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.5298,
+     44.111
+    ]
+   },
+   "properties": {
+    "id": "305",
+    "name": "CFB Trenton",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.42,
+     46.36
+    ]
+   },
+   "properties": {
+    "id": "306",
+    "name": "CFB North Bay",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.4649,
+     53.6763
+    ]
+   },
+   "properties": {
+    "id": "307",
+    "name": "CFB Edmonton (RCAF Station Namao / Steele Barracks)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.37,
+     48.4247
+    ]
+   },
+   "properties": {
+    "id": "308",
+    "name": "Fort Victoria",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.573,
+     49.1687
+    ]
+   },
+   "properties": {
+    "id": "309",
+    "name": "Fort Langley",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.7,
+     76.53
+    ]
+   },
+   "properties": {
+    "id": "310",
+    "name": "Pituffik Space Base (Thule Air Base; Dundas / Uummannaq)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.13,
+     77.18
+    ]
+   },
+   "properties": {
+    "id": "311",
+    "name": "Camp Century",
+    "evidence": "Confirmed",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -45.4236,
+     61.1556
+    ]
+   },
+   "properties": {
+    "id": "312",
+    "name": "Narsarsuaq Air Base (Bluie West One)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -36.68,
+     65.93
+    ]
+   },
+   "properties": {
+    "id": "313",
+    "name": "Bluie East Two (Ikateq)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -50.6913,
+     67.0087
+    ]
+   },
+   "properties": {
+    "id": "314",
+    "name": "Kangerlussuaq (Sondrestrom Air Base; Bluie West Eight)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.1,
+     61.24
+    ]
+   },
+   "properties": {
+    "id": "315",
+    "name": "Kangilinnguit (Grønnedal)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.65,
+     81.6
+    ]
+   },
+   "properties": {
+    "id": "316",
+    "name": "Station Nord",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -20.2224,
+     74.3047
+    ]
+   },
+   "properties": {
+    "id": "317",
+    "name": "Eskimonæs / Daneborg (Sirius Patrol headquarters)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.182,
+     19.42
+    ]
+   },
+   "properties": {
+    "id": "318",
+    "name": "Castillo de Chapultepec / Colegio Militar",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.137,
+     19.451
+    ]
+   },
+   "properties": {
+    "id": "319",
+    "name": "Prisión Militar / Cuartel de Santiago Tlatelolco",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.6207,
+     20.9643
+    ]
+   },
+   "properties": {
+    "id": "320",
+    "name": "Ciudadela de San Benito (Convento de San Francisco / Cuartel de San Benito), Mérida",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.1314,
+     19.2095
+    ]
+   },
+   "properties": {
+    "id": "321",
+    "name": "Fortaleza de San Juan de Ulúa",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.131,
+     19.4325
+    ]
+   },
+   "properties": {
+    "id": "322",
+    "name": "Palacio Nacional (Palacio Virreinal; Primera Zona Militar HQ; SEDENA east wing)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.0054,
+     19.754
+    ]
+   },
+   "properties": {
+    "id": "323",
+    "name": "Base Aérea Militar No. 1 Santa Lucía / Aeropuerto Internacional Felipe Ángeles (AIFA)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.1462,
+     19.2622
+    ]
+   },
+   "properties": {
+    "id": "324",
+    "name": "Heroico Colegio Militar (Campo Militar No. 1-C, Tlalpan)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.1872,
+     19.0568
+    ]
+   },
+   "properties": {
+    "id": "325",
+    "name": "Fuertes de Loreto y Guadalupe (Cerro de Acueyametepec), Puebla",
+    "evidence": "Refuted",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.5378,
+     19.8465
+    ]
+   },
+   "properties": {
+    "id": "326",
+    "name": "Baluartes and walls of San Francisco de Campeche; Fuerte de San Miguel; Fuerte de San José el Alto",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.3886,
+     18.677
+    ]
+   },
+   "properties": {
+    "id": "327",
+    "name": "Fuerte de San Felipe de Bacalar",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.9092,
+     16.8719
+    ]
+   },
+   "properties": {
+    "id": "328",
+    "name": "Fuerte de San Diego, Acapulco",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7313,
+     17.0672
+    ]
+   },
+   "properties": {
+    "id": "329",
+    "name": "Cerro del Fortín (Fortín de Zaragoza), Oaxaca",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.9697,
+     29.0943
+    ]
+   },
+   "properties": {
+    "id": "330",
+    "name": "Presidio de San Pedro de la Conquista del Pitic (Hermosillo)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.3419,
+     26.0101
+    ]
+   },
+   "properties": {
+    "id": "331",
+    "name": "Real Presidio de Loreto (Conchó)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.1973,
+     19.4246
+    ]
+   },
+   "properties": {
+    "id": "332",
+    "name": "Campo Militar No. 1 / Campo Marte (Lomas de Sotelo) and SEDENA headquarters",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.2443,
+     19.5731
+    ]
+   },
+   "properties": {
+    "id": "333",
+    "name": "Fortaleza de San Carlos de Perote",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.994,
+     15.6371
+    ]
+   },
+   "properties": {
+    "id": "334",
+    "name": "Castillo de San Felipe de Lara, Río Dulce",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.4821,
+     14.6367
+    ]
+   },
+   "properties": {
+    "id": "335",
+    "name": "Kaminaljuyú and Guatemala City military installations (Brigada Mariscal Zavala, Guardia de Honor, Fuerte de San José)",
+    "evidence": "Refuted",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.3,
+     17.54
+    ]
+   },
+   "properties": {
+    "id": "336",
+    "name": "British Army Training Support Unit Belize (BATSUB), Price Barracks and jungle training estate",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.62,
+     14.38
+    ]
+   },
+   "properties": {
+    "id": "337",
+    "name": "Soto Cano Air Base (Palmerola)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.0354,
+     15.7735
+    ]
+   },
+   "properties": {
+    "id": "338",
+    "name": "Fortaleza de San Fernando de Omoa",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.95,
+     15.92
+    ]
+   },
+   "properties": {
+    "id": "339",
+    "name": "Fortaleza de Santa Bárbara (Trujillo) and Fuerte de San Cristóbal (Gracias)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.19,
+     13.69
+    ]
+   },
+   "properties": {
+    "id": "340",
+    "name": "Cuartel El Zapote, Cuartel San Carlos, Ilopango Air Base, Escuela Militar (Antiguo Cuscatlán area)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.4729,
+     11.0433
+    ]
+   },
+   "properties": {
+    "id": "341",
+    "name": "Fortaleza de la Inmaculada Concepción (El Castillo), Río San Juan",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.1,
+     11.99
+    ]
+   },
+   "properties": {
+    "id": "342",
+    "name": "Fortaleza El Coyotepe, Masaya",
+    "evidence": "Refuted",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.2675,
+     12.1279
+    ]
+   },
+   "properties": {
+    "id": "343",
+    "name": "Loma de Tiscapa (Campo de Marte; Guardia Nacional HQ; El Búnker; Hospital Militar)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.07,
+     9.934
+    ]
+   },
+   "properties": {
+    "id": "344",
+    "name": "Cuartel Bellavista (Museo Nacional de Costa Rica)",
+    "evidence": "Refuted",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.9812,
+     -12.0988
+    ]
+   },
+   "properties": {
+    "id": "345",
+    "name": "Cuartel General del Ejército 'Pentagonito' (San Borja)",
+    "evidence": "Refuted",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.9964,
+     -12.1486
+    ]
+   },
+   "properties": {
+    "id": "346",
+    "name": "Base Aérea Las Palmas (Escuela de Oficiales FAP), Surco",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.0246,
+     -12.1686
+    ]
+   },
+   "properties": {
+    "id": "347",
+    "name": "Escuela Militar de Chorrillos / Armatambo (Morro Solar)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.1508,
+     -12.0617
+    ]
+   },
+   "properties": {
+    "id": "348",
+    "name": "Fortaleza del Real Felipe (Callao)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.03,
+     -12.02
+    ]
+   },
+   "properties": {
+    "id": "349",
+    "name": "Fuerte Gral. Div. Rafael Hoyos Rubio / Huaca La Florida (Rímac)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.1079,
+     -8.0855
+    ]
+   },
+   "properties": {
+    "id": "350",
+    "name": "Chan Chan — Trujillo–Huanchaco highway and Base Aérea FAP 'Capitán Carlos Martínez de Pinillos'",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.9786,
+     -13.5163
+    ]
+   },
+   "properties": {
+    "id": "351",
+    "name": "Sacsayhuamán (Cusco) — Spanish demilitarisation and quarrying",
+    "evidence": "Probable",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.21,
+     -13.17
+    ]
+   },
+   "properties": {
+    "id": "352",
+    "name": "Cuartel BIM 'Los Cabitos' N° 51 (Ayacucho)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.32,
+     -18.48
+    ]
+   },
+   "properties": {
+    "id": "353",
+    "name": "Morro de Arica (1880 Peruvian forts; Chilean monuments and Museo Histórico y de Armas)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -109.4301,
+     -27.1587
+    ]
+   },
+   "properties": {
+    "id": "354",
+    "name": "Aeropuerto Mataveri and the Chilean Navy administration of Rapa Nui",
+    "evidence": "Probable",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.64,
+     -33.44
+    ]
+   },
+   "properties": {
+    "id": "355",
+    "name": "Castillo Hidalgo and Castillo González (Cerro Santa Lucía / Huelén), Santiago",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.6696,
+     -37.5026
+    ]
+   },
+   "properties": {
+    "id": "356",
+    "name": "Fuerte de Nacimiento (Biobío)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -67.6167,
+     -54.9167
+    ]
+   },
+   "properties": {
+    "id": "357",
+    "name": "Puerto Williams (Navy town and base, Isla Navarino)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.3927,
+     -39.887
+    ]
+   },
+   "properties": {
+    "id": "358",
+    "name": "Sistema de fuertes de Valdivia (Mancera, Corral, Niebla, Amargos)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.92,
+     -53.63
+    ]
+   },
+   "properties": {
+    "id": "359",
+    "name": "Fuerte Bulnes (Punta Santa Ana)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.818,
+     -32.4333
+    ]
+   },
+   "properties": {
+    "id": "360",
+    "name": "Fuerte Sancti Spiritu (Puerto Gaboto)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.9836,
+     -40.802
+    ]
+   },
+   "properties": {
+    "id": "361",
+    "name": "Fuerte del Carmen / Cerro de la Caballada (Carmen de Patagones)",
+    "evidence": "Confirmed",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.3064,
+     -54.8068
+    ]
+   },
+   "properties": {
+    "id": "362",
+    "name": "Fuerte Ushuaia / Base Naval Ushuaia",
+    "evidence": "Probable",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.6511,
+     -34.5346
+    ]
+   },
+   "properties": {
+    "id": "363",
+    "name": "Campo de Mayo",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.0,
+     -36.5
+    ]
+   },
+   "properties": {
+    "id": "364",
+    "name": "Conquest-of-the-Desert fortines (Pescado, Machado, Tapera de Sabino; cf. Otamendi, General Paz, Blanca Grande)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -53.55,
+     -33.97
+    ]
+   },
+   "properties": {
+    "id": "365",
+    "name": "Fortaleza de Santa Teresa (Parque Nacional Santa Teresa)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -53.54,
+     -33.69
+    ]
+   },
+   "properties": {
+    "id": "366",
+    "name": "Fuerte de San Miguel (Rocha)",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -57.6344,
+     -25.28
+    ]
+   },
+   "properties": {
+    "id": "367",
+    "name": "Casa Fuerte de Nuestra Señora de la Asunción",
+    "evidence": "Probable",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -57.8704,
+     -21.04
+    ]
+   },
+   "properties": {
+    "id": "368",
+    "name": "Fuerte Borbón / Fuerte Olimpo (Alto Paraguay)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.7359,
+     -22.5006
+    ]
+   },
+   "properties": {
+    "id": "369",
+    "name": "Chaco War fortines (Isla Po'i, Pilcomayo fortines, Ingavi, Boquerón)",
+    "evidence": "Confirmed",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.534,
+     -26.1681
+    ]
+   },
+   "properties": {
+    "id": "370",
+    "name": "Forte Marechal Luz (São Francisco do Sul)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -44.4171,
+     -2.3383
+    ]
+   },
+   "properties": {
+    "id": "371",
+    "name": "Centro de Lançamento de Alcântara (CLA)",
+    "evidence": "Probable",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -43.2332,
+     -22.8238
+    ]
+   },
+   "properties": {
+    "id": "372",
+    "name": "Base Aérea do Galeão / Estação Rádio da Marinha (Ilha do Governador)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.5,
+     -1.455
+    ]
+   },
+   "properties": {
+    "id": "373",
+    "name": "Forte do Presépio / Forte do Castelo (Belém)",
+    "evidence": "Probable",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -57.7922,
+     -19.9204
+    ]
+   },
+   "properties": {
+    "id": "374",
+    "name": "Forte de Coimbra (Corumbá)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.565,
+     -27.4269
+    ]
+   },
+   "properties": {
+    "id": "375",
+    "name": "Fortalezas of Santa Catarina island (Anhatomirim; São José da Ponta Grossa)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -35.195,
+     -5.7564
+    ]
+   },
+   "properties": {
+    "id": "376",
+    "name": "Forte dos Reis Magos (Natal)",
+    "evidence": "Unverified",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.77,
+     5.24
+    ]
+   },
+   "properties": {
+    "id": "377",
+    "name": "Centre Spatial Guyanais (Kourou–Sinnamary)",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -55.15,
+     5.83
+    ]
+   },
+   "properties": {
+    "id": "378",
+    "name": "Fort Zeelandia (Paramaribo)",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.63,
+     6.38
+    ]
+   },
+   "properties": {
+    "id": "379",
+    "name": "Fort Kyk-Over-Al (Essequibo)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -58.25,
+     6.5
+    ]
+   },
+   "properties": {
+    "id": "380",
+    "name": "Atkinson Field / Timehri (Cheddi Jagan International Airport; Base Camp Stephenson adjoins)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.5488,
+     10.4228
+    ]
+   },
+   "properties": {
+    "id": "381",
+    "name": "Cartagena de Indias (walled city; Castillo San Felipe de Barajas; Base Naval ARC Bolívar)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.195,
+     11.2321
+    ]
+   },
+   "properties": {
+    "id": "382",
+    "name": "Santa Marta (Spanish city and forts El Morro, San Fernando; Base Naval)",
+    "evidence": "Probable",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.7667,
+     1.8088
+    ]
+   },
+   "properties": {
+    "id": "383",
+    "name": "Tumaco — Base Naval del Pacífico",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.17,
+     10.46
+    ]
+   },
+   "properties": {
+    "id": "384",
+    "name": "Castillo de San Antonio de la Eminencia (Cumaná)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6,
+     10.98
+    ]
+   },
+   "properties": {
+    "id": "385",
+    "name": "Castillo de San Carlos de la Barra (Zulia)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.67,
+     -16.55
+    ]
+   },
+   "properties": {
+    "id": "386",
+    "name": "Tiwanaku — military damage allegation (no installation)",
+    "evidence": "Probable",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.51,
+     -0.22
+    ]
+   },
+   "properties": {
+    "id": "387",
+    "name": "Cuartel Real de Lima / Centro Cultural Metropolitano (Quito)",
+    "evidence": "Unverified",
+    "relationship": "Unclassified / unknown"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.0042,
+     -2.8985
+    ]
+   },
+   "properties": {
+    "id": "388",
+    "name": "Pumapungo (Cuenca)",
+    "evidence": "Refuted",
+    "relationship": "No site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.0096,
+     16.902
+    ]
+   },
+   "properties": {
+    "id": "389",
+    "name": "Campamento militar de Toniná (Mexican Army camp at the Toniná ruins, Ocosingo)",
+    "evidence": "Unverified",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.12,
+     16.77
+    ]
+   },
+   "properties": {
+    "id": "390",
+    "name": "BDF Conservation Post at Caracol (Belize Defence Force Caracol camp, Chiquibul)",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.7267,
+     29.4876
+    ]
+   },
+   "properties": {
+    "id": "391",
+    "name": "Presidio de San Miguel de Horcasitas",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.42,
+     29.565
+    ]
+   },
+   "properties": {
+    "id": "392",
+    "name": "Presidio del Norte (Presidio de Nuestra Señora de Belén y Santiago de las Amarillas de la Junta de los Ríos), Ojinaga",
+    "evidence": "Probable",
+    "relationship": "Adjacent only"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.33,
+     -41.14
+    ]
+   },
+   "properties": {
+    "id": "393",
+    "name": "Escuela Militar de Montaña 'Juan Domingo Perón' (Ejército Argentino training lands, Bariloche) — Lof Millalonco Ranquehue claim",
+    "evidence": "Probable",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.47,
+     10.52
+    ]
+   },
+   "properties": {
+    "id": "394",
+    "name": "Base militar del Cerro El Alguacil (Inarwa) — Batallón de Artillería N° 2 'La Popa' / Décima Brigada Blindada communications base",
+    "evidence": "Confirmed",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.336,
+     4.937
+    ]
+   },
+   "properties": {
+    "id": "395",
+    "name": "Fort Cépérou (Morne Cépérou; Fort Saint-Michel/Fort Louis successors), Cayenne",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.18,
+     4.6
+    ]
+   },
+   "properties": {
+    "id": "396",
+    "name": "6º Pelotão Especial de Fronteira (6º PEF) Uiramutã",
+    "evidence": "Probable",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.62,
+     -18.28
+    ]
+   },
+   "properties": {
+    "id": "397",
+    "name": "Campo de entrenamiento militar Pampa Campanani (also spelled Campapane; Socoroma; Ejército de Chile artillery and mortar training ground)",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.55,
+     -27.67
+    ]
+   },
+   "properties": {
+    "id": "398",
+    "name": "Base Aérea de Florianópolis (BAFL) — sítio arqueológico Base Aérea I",
+    "evidence": "Probable",
+    "relationship": "Overlaps documented sites"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -55.52,
+     -1.9
+    ]
+   },
+   "properties": {
+    "id": "399",
+    "name": "Forte de Óbidos (Forte Pauxis, 1697; 19th-century Fortaleza de Óbidos; Quartel General Gurjão, 1907)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.06,
+     -36.63
+    ]
+   },
+   "properties": {
+    "id": "400",
+    "name": "Isla Quiriquina naval complex — Escuela de Grumetes 'Alejandro Navarrete Cisterna', Fuerte Quiriquina Sur and coastal batteries Rondizzoni, Miller and Maruri",
+    "evidence": "Probable",
+    "relationship": "Deliberate reuse of an Indigenous place"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.62,
+     2.58
+    ]
+   },
+   "properties": {
+    "id": "401",
+    "name": "Escuela de Fuerzas Especiales de Infantería de Marina (Armada Nacional), Barrancón",
+    "evidence": "Probable",
+    "relationship": "Territory taken, no located site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.25,
+     2.98
+    ]
+   },
+   "properties": {
+    "id": "402",
+    "name": "Puesto militar / base de comunicaciones del Cerro Berlín (Ejército Nacional), Toribío",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -51.64,
+     -1.405
+    ]
+   },
+   "properties": {
+    "id": "403",
+    "name": "Forte de Santo Antônio de Gurupá (Dutch Fort Mariocai, 1601–1619; Portuguese fort from 1623)",
+    "evidence": "Probable",
+    "relationship": "Built directly on a known site"
+   }
+  }
+ ]
+}
